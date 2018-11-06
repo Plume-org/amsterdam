@@ -1,0 +1,13 @@
+[package]
+name = "amsterdam"
+version = "0.1.0"
+authors = ["Bat' <baptiste@gelez.xyz>"]
+
+[dependencies]
+canapi = "0.2.0"
+clap = "2.0"
+dotenv = "0.13"
+plume-api = { git = "https://github.com/Plume-org/Plume", rev = "88a6a81ad8ce8cdb18b9ae3467961cf9490e4411" }
+reqwest = "0.9.3"
+rpassword = "2.0.0"
+serde_json = "1.0"
