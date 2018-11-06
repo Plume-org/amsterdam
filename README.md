@@ -2,6 +2,8 @@
 
 Import tool for Plume.
 
+Note that this tool is still experimental and your Plume instance should run the `post-api` branch for the moment.
+
 ## Installing
 
 Clone this repository and run:
